@@ -1,1 +1,2 @@
 # TRC3500_Project3
+This project implements a multi-sensor breath rate monitoring system using a pressure sensor (sphygmomanometer), a conductive rubber chest sensor, and data fusion techniques to improve detection accuracy. The system captures breathing signals, processes them to detect breaths, and combines sensor outputs to enhance reliability across different activities such as resting and light exercise. Live ADC data is collected using STM32, and DSP is performed in python.
